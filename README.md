@@ -1,6 +1,6 @@
 Name: Randy Rafael.
 
-About me: A Back-end developer who is continuously learning and striving to better understand this field.
+About me: A Back-end developer who is continuously learning and striving to better understand this position.
 
 Language: Bahasa Indonesia, English 
 
