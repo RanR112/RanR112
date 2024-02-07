@@ -1,5 +1,9 @@
+<h1 align='center'>Hello, i'm <b>Randy Rafael</b></h1>
+<h3 align="center">A Back-end developer who is continuously learning and striving to better understand this position.</h3>
+<hr>
+
 # 💫 About Me:
-Name: Randy Rafael. <br>About me: A Back-end developer who is continuously learning and striving to better understand this field.<br>Language : Bahasa Indonesia, English <br>Instagram : @randyafael112<br>Location: Indonesia.
+Language  : Bahasa Indonesia, English <br>Instagram  : @randyafael112<br>Location  : Indonesia.
 
 
 ## 🌐 Socials:
