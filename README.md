@@ -3,8 +3,7 @@
 <hr>
 
 # 💫 About Me:
-🚀Hello! I'm a Junior Back-End Developer diving into the world of code, where i transform ideas into seamless digital experiences. Passionate about crafting efficient solutions on the server-side. I'm on a journey to explore, learn and contribute to ever-evolving tech.
-I speak Bahasa Indonesia (Native) and English.
+🚀Hello! I'm a Junior Back-End Developer diving into the world of code, where i transform ideas into seamless digital experiences. Passionate about crafting efficient solutions on the server-side. I'm on a journey to explore, learn and contribute to ever-evolving tech. Let's code the future together!💻✨ <br> ✅I speak Bahasa Indonesia (Native) and English.
 
 
 ## 🌐 Socials:
