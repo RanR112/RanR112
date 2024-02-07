@@ -1,9 +1,10 @@
-<h1 align='center'>Hello, i'm <b>Randy Rafael</b></h1>
+<h1 align='center'>Hey There, i'm <b>Randy Rafael</b></h1>
 <h3 align="center">A Back-end developer who is continuously learning and striving to better understand this position.</h3>
 <hr>
 
 # 💫 About Me:
-Language  : Bahasa Indonesia, English <br>Instagram  : @randyafael112<br>Location  : Indonesia.
+🚀Hello! I'm a Junior Back-End Developer diving into the world of code, where i transform ideas into seamless digital experiences. Passionate about crafting efficient solutions on the server-side. I'm on a journey to explore, learn and contribute to ever-evolving tech.
+I speak Bahasa Indonesia (Native) and English.
 
 
 ## 🌐 Socials:
