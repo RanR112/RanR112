@@ -1,7 +1,11 @@
-Name: Randy Rafael. /n
+Name: Randy Rafael.
+
 About me: A Back-end developer who is continuously learning and striving to better understand this field.
+
 Language: Bahasa Indonesia, English 
+
 Instagram: @randyafael112
+
 Location: Indonesia.
 
 <!---
