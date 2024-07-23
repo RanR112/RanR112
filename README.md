@@ -1,7 +1,7 @@
 <h3>Hello, I'm</h3>
 <h1>Randy Rafael</h1>
 <h4>Fullstack Developer</h4>
-<p>A Junior Back-end Developer who is continuously learning and striving to better understand this position.</p>
+<p>I'm a dedicated fullstack developer. With expertise in various frontend and backend technologies.</p>
 <p>I speak Bahasa Indonesia (Native) and English.</p>
 
 
