@@ -2,7 +2,7 @@
 <h1>Randy Rafael</h1>
 <h4>Fullstack Developer</h4>
 <p>I'm a dedicated fullstack developer. With expertise in various frontend and backend technologies.</p>
-<p>I speak Bahasa Indonesia (Native) and English.</p>
+<p>I speak Bahasa Indonesia (Native), English, and German.</p>
 
 
 ## 🌐 Socials:
