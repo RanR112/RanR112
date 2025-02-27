@@ -1,4 +1,6 @@
-![Header](./banner.png)  
+<p align="center">
+  <img src="./banner.png" alt="Header">
+</p>
 
 <h1 align="center">Randy Rafael 🚀</h1>
 <h3 align="center">Fullstack Developer | Music Enthusiast | Tech Explorer</h3>
