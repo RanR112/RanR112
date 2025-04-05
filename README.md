@@ -15,7 +15,7 @@
 - 🎯 Passionate about **Fullstack Development**
 - ⚡ Enthusiastic in **Frontend & Backend Tech**
 - 🎼 Plays **music** in my free time  
-- 🌍 Speaks **Bahasa Indonesia (Native), English, and German**  
+- 🌍 Speaks **Bahasa Indonesia (Native), English, and Deutsch**  
 - 📫 Reach me via **[Instagram](https://instagram.com/randyrafael112)**  
 
 ---
