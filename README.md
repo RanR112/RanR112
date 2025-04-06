@@ -37,5 +37,4 @@
 
 ---
 
-### ✨ **Let's Connect & Collaborate! 🚀**
 <h3 align="center"><b>✨ Let's Connect & Collaborate! 🚀</b></h3>
