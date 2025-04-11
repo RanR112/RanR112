@@ -1,7 +1,7 @@
 <h3 align="center">Fullstack Developer | Music Enthusiast | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A700&center=true&vCenter=true&width=600&lines=Building+cool+projects+with+React+%26+Laravel;Love+solving+tech+challenges!;Code%2C+music%2C+repeat!;Let's+connect!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A700&center=true&vCenter=true&width=600&lines=Building+cool+projects+with+MERN+%26+Laravel;Love+solving+tech+challenges!;Code%2C+music%2C+repeat!;Let's+connect!+🚀" />
 </p>
 
 ---
