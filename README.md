@@ -1,10 +1,10 @@
-<img src="https://raw.githubusercontent.com/RanR112/RanR112/output/snake.svg" alt="Snake animation" />
 
 <h3 align="center">Fullstack Developer | Music Enthusiast | Tech Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A700&center=true&vCenter=true&width=600&lines=Building+cool+projects+with+MERN+%26+Laravel;Love+solving+tech+challenges!;Code%2C+music%2C+repeat!;Let's+connect!+🚀" />
 </p>
+<img src="https://raw.githubusercontent.com/RanR112/RanR112/output/snake.svg" alt="Snake animation" />
 
 ---
 
