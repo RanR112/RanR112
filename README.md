@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/RanR112/RanR112/output/snake.svg" alt="Snake animation" />
+
 <h3 align="center">Fullstack Developer | Music Enthusiast | Tech Explorer</h3>
 
 <p align="center">
