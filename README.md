@@ -27,7 +27,7 @@ I believe in using the right tool for the job. Here are the technologies I work 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RanR112&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### Connect
-Feel free to reach out if you want to collaborate on a project, talk about tech, or just share some music recommendations!
+Feel free to reach out.
 
 <p align="left">
   <a href="mailto:randyrafael112@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
